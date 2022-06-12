@@ -1,0 +1,27 @@
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<th>
+				<br>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width: 100%; border-color: rgb(212, 235, 255); border-style: double; border-width: 1px;">
+				<div data-empty="true" style="text-align: center;"><span style='font-family: "comic sans ms", sans-serif; font-size: 30px;'>!!WARNING!!</span></div>
+
+				<p style="text-align: center;">*type your warning here*</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div data-empty="true" style="text-align: center;"><a href="https://cappyadams.carrd.co/" id="" rel="noopener noreferrer" target="_blank">Code by CappyAdams</a></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>

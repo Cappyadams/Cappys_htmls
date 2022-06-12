@@ -1,0 +1,59 @@
+<table class="table table-striped" style="width: 100%;">
+	<thead>
+		<tr>
+			<th style="border-color: rgb(109, 173, 231); border-style: double; border-width: 1px; background-color: rgb(28, 144, 165); text-align: center;">
+
+				<h1><span style='color: rgb(18, 69, 97); font-family: "comic sans ms", sans-serif;'>Character Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&mdash; &nbsp;<a href="https://cappyadams.carrd.co/" id="" rel="noopener noreferrer" target="_blank">❤</a>&nbsp; ✖</span></h1>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color: rgb(210, 255, 252); text-align: center;">
+				<hr><span style="color: #000000;">Pronouns: &nbsp;pronouns<br>Gender: &nbsp;gender<br>Age: &nbsp;age<br>DOB: &nbsp;date of birth<br>Species: &nbsp;species</span><img src="https://media.discordapp.net/attachments/832789433174327326/860327860325318666/2_bNouKXh4.png" class="fr-fic fr-dib fr-rounded" width="600" height="600"></td>
+		</tr>
+		<tr>
+			<td style="width: 100%; background-color: rgb(210, 255, 252); text-align: center;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul class="nav nav-tabs card-header-tabs row mb-1">
+	<li class="col-md-4 mb-1"><a class="btn bg-faded btn-block btn-outline-secondary show active" data-toggle="tab" href="#reg1">Info</a></li>
+	<li class="col-md-4 mb-1"><a class="btn bg-faded btn-block btn-outline-secondary show" data-toggle="tab" href="#reg2">Likes + Dislikes</a></li>
+	<li class="col-md-4 mb-1"><a class="btn bg-faded btn-block btn-outline-secondary show" data-toggle="tab" href="#reg3">Backstory</a></li>
+</ul>
+<div class="tab-content">
+	<div class="tab-pane fade active show" id="reg1">
+		<div class="card p-3">
+			<div class="p-3"><span style='color: rgb(255, 255, 255); font-family: "comic sans ms", sans-serif;'>blahblahblahblahblahblahblahblahblahblahblahblah</span></div>
+		</div>
+	</div>
+	<div class="tab-pane fade" id="reg2">
+		<div class="card p-3">
+
+			<h1 class="p-3"><span style='color: rgb(255, 255, 255); font-family: "comic sans ms", sans-serif;'>Likes:</span></h1>
+
+			<ul style="list-style-type: circle;">
+				<li><span style="color: #ffffff;">like</span></li>
+				<li><span style="color: #ffffff;">like</span></li>
+				<li><span style="color: #ffffff;">like</span></li>
+			</ul>
+
+			<h1 class="p-3"><span style='color: rgb(255, 255, 255); font-family: "comic sans ms", sans-serif;'>Dislikes:</span></h1>
+
+			<ul>
+				<li><span style="color: #ffffff;">dislike</span></li>
+				<li><span style="color: #ffffff;">dislike</span></li>
+				<li><span style="color: #ffffff;">dislike</span></li>
+			</ul>
+		</div>
+	</div>
+	<div class="tab-pane fade" id="reg3">
+		<div class="card p-3">
+			<div class="p-3"><span style='color: rgb(255, 255, 255); font-family: "comic sans ms", sans-serif;'>blahblahblahblah</span></div>
+		</div>
+	</div>
+</div>

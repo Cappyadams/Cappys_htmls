@@ -1,0 +1,60 @@
+<div class="p-3 rounded text-center" style="background-image:url(https://github.com/Cappyadams/cappyadams.github.io/blob/main/assets/images/gear-up-bg.png?raw=true);background-attachment:fixed;">
+
+	<h1 class="p-3" style="background-color:rgba(23, 23, 23, 0.6);color:rgba(235, 235, 235, 1);"><span style="font-family: comic sans ms,sans-serif;">Name</span></h1>
+
+	<p class="p-3" style="background-color: rgba(23, 23, 23, 0.6);"><span style="font-family: comic sans ms,sans-serif;"><span style="background-color: initial;"><span class="fr-emoticon fr-deletable fr-emoticon-img" style='background: url("https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f419.svg"); color: rgb(255, 255, 255);'>&nbsp;</span><span style="color: #ffffff;">&nbsp; Pronouns</span>&nbsp;</span>
+		</span><span style='color: rgb(235, 235, 235); font-family: "comic sans ms", sans-serif;'>&nbsp;|| Gender<span style="color: rgb(235, 235, 235);">&nbsp;|| Age || BOD || &nbsp;<span class="fr-emoticon fr-deletable fr-emoticon-img" style="background: url(https://cdnjs.cloudflare.com/ajax/libs/emojione/2.0.1/assets/svg/1f419.svg);">&nbsp;</span> &nbsp;</span><img src="https://github.com/Cappyadams/Cappysfiles/blob/main/OTHER_HTML_Files/Images/Icons/Marina_Aesthetic_PFP.jpg?raw=true" class="fr-fic fr-rounded fr-dib fr-bordered" width="275" height="275" alt="why are you reading this"></span>
+	</p>
+	<div class="accordion md-accordion" id="allclosed">
+		<div>
+			<div class="card p-3 mb-2" id="headingclosed1">
+				<a class="collapsed" data-parent="#allclosed" data-toggle="collapse" href="#allclosed1">
+					<div class="mb-0"><span style='color: rgb(142, 229, 126); font-family: "comic sans ms", sans-serif;'>Info</span></div>
+				</a>
+			</div>
+			<div class="collapse" data-parent="#allclosed" id="allclosed1">
+				<div class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;"><span style="color: rgb(142, 229, 126); font-size: 18px;">*Type some info here.*</span></span>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div class="card p-3 mb-2" id="headingclosed2"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;"><a data-parent="#allclosed" data-toggle="collapse" href="#allclosed2"><div class="mb-0">Gear</div></a></span></span>
+			</div>
+			<div class="collapse" data-parent="#allclosed" id="allclosed2">
+
+				<h1 class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;">Name&#39;s Gear</span></span>
+				</h1>
+
+				<h1 class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;">Main Weapon</span></span>
+				</h1>
+
+				<h1 class="card-body p-3" style="text-align: left;"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;"><img src="https://www.models-resource.com/resources/sheet_icons/33/32249.png" class="fr-fic fr-rounded fr-bordered fr-dib" width="273" height="230.562">Headgear</span></span>
+				</h1>
+
+				<h1 class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;"><img src="https://www.models-resource.com/resources/big_icons/31/30869.png" class="fr-fic fr-dib fr-fil fr-rounded fr-bordered" width="359" height="311.125"></span></span>
+				</h1>
+
+				<h1><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;">Clothes</span></span>
+				</h1>
+
+				<h1 class="card-body p-3" style="text-align: right;"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;"><img src="https://www.models-resource.com/resources/sheet_icons/31/30406.png" class="fr-fic fr-dib fr-bordered fr-rounded" width="375" height="316.719">Shoes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span>
+				</h1>
+				<div class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;"><span style="color: #8ee57e;"><img src="https://www.models-resource.com/resources/sheet_icons/40/39337.png" class="fr-fic fr-bordered fr-rounded fr-dib fr-fir" width="352" height="297.297"></span></span>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div class="card p-3 mb-2" id="headingclosed3"><span style="font-family: comic sans ms,sans-serif;"><a class="collapsed" data-parent="#accordion" data-toggle="collapse" href="#allclosed3"><div class="mb-0"><span style="color: #8ee57e;">Backstory</span></div>
+			</a>
+			</span>
+		</div>
+		<div class="collapse" data-parent="#allclosed" id="allclosed3">
+			<div class="card-body p-3"><span style="font-family: comic sans ms,sans-serif;">*Write your OC&#39;s backstory here*</span></div>
+		</div>
+	</div>
+
+	<h1 class="p-3" style="background-color:rgba(23, 23, 23, 0.6);color:rgba(235, 235, 235, 1);"><span style="color: #8ee57e;"><a href="https://cappyadams.carrd.co/" id="" rel="noopener noreferrer" target="_blank"><span style="font-family: comic sans ms,sans-serif;">Code by CappyAdams</span></a>
+		</span>
+	</h1>
+</div>
+</div>

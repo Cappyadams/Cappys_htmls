@@ -1,0 +1,98 @@
+<p>
+	<br>
+</p>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<thead>
+		<tr>
+			<th>Info.TXT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &minus;&Delta;✖</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;">
+				<div data-empty="true" style="text-align: center;">User&#39;s Info</div>
+
+				<table style="width: 100%;">
+					<tbody>
+						<tr>
+							<td style="vertical-align: middle;">
+								<div data-empty="true" style="text-align: center;">Basics</div>
+							</td>
+							<td style="text-align: center;">Other stuff</td>
+						</tr>
+						<tr>
+							<td style="width: 50.0000%;"><img src="https://github.com/Cappyadams/Cappysfiles/blob/main/OTHER_HTML_Files/Images/Icons/Callie_Aesthetic_PFP.jpg?raw=true" class="fr-fic fr-dii fr-bordered fr-rounded" width="317.983" height="317.983">
+								<br>Pronouns :
+								<br>Gender :
+								<br>Sexuality :
+								<br>Program used to make Art :
+								<br><a href="https://cappyadams.carrd.co/" id="" rel="noopener noreferrer" target="_blank">HTML by CappyAdams</a>
+								<br>
+							</td>
+							<td style="width: 50%; text-align: center;">*Type some stuff about you here*
+								<br>
+								<br>
+								<br><span style="font-size: 24px;">&nbsp; <a data-toggle="tooltip" href="" title="Put your Discord Tag here"><i class="fab fa-discord"></i></a>&nbsp; &nbsp;<a data-toggle="tooltip" href="linkhere" title="Put your instagram here"><i class="fab fa-instagram"></i></a>&nbsp; &nbsp;<a data-toggle="tooltip" href="linkhere" title="Put your tiktok here"><i class="fab fa-tiktok"></i></a>&nbsp; &nbsp;<a data-toggle="tooltip" href="linkhere" title="Put your Twitter here"><i class="fab fa-twitter"></i></a>&nbsp; &nbsp;<a data-toggle="tooltip" href="linkhere" title="Put your youtube here"><i class="fab fa-youtube"></i></a>&nbsp; &nbsp;</span><a data-toggle="tooltip" href="linkhere" title="Put your Github here"><i class="fab fa-github"></i></a>
+								<br>
+								<br>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+
+<table style="width: 42%; margin-left: calc(58%);">
+	<thead>
+		<tr>
+			<th>Users_art.png &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&minus;&Delta;✖</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;"><img src="https://github.com/Cappyadams/Cappysfiles/blob/main/OTHER_HTML_Files/Images/Icons/Marie_Aesthetic_PFP.jpg?raw=true" class="fr-fic fr-dib fr-bordered" width="357.983" height="357.983"></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+
+<table style="width: 58%; margin-right: calc(42%); margin-left: calc(0%);">
+	<thead>
+		<tr>
+			<th>Textnameorsomethinglol.txt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &minus;&Delta;✖</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;">blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<br>
+</p>
+
+<table style="width: 42%; margin-left: calc(58%);">
+	<thead>
+		<tr>
+			<th>Song Name.mp3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &minus;&Delta;✖</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;"><span class="fr-video fr-fvc fr-dvi fr-draggable" contenteditable="false"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1L6ya0Yacg" title="YouTube video player" frameborder="0" allowfullscreen=""></iframe></span></td>
+		</tr>
+	</tbody>
+</table>

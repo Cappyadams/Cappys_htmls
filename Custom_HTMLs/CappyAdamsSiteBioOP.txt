@@ -1,0 +1,96 @@
+						<h1 class="display-4 pb-2 text-center">
+							<br>
+						</h1>
+
+						<h1 class="display-4 pb-2 text-center" style="text-align: center;"><span style='font-family: "comic sans ms", sans-serif;'>*Name*</span></h1>
+					</div><span style="font-family: comic sans ms,sans-serif;"><!-- BUTTONS --><div class="page-header" style="text-align: center;"><a class="btn btn-info btn-lg" href="https://youtu.be/dQw4w9WgXcQ?si=eAIvWCU2p1rEmkrg">Home</a>
+<a class="btn btn-info btn-lg" href="Link">Discord</a>
+<a class="btn btn-info btn-lg" href="Link">Instagram</a>
+<a class="btn btn-info btn-lg" href="Link">Twitter/X</a>
+<a class="btn btn-info btn-lg" href="Link">DeviantArt</a>
+<a class="btn btn-info btn-lg" href="Link">Carrd</a></div></span></div>
+			</div>
+		</div>
+		<div class="jumbotron">
+
+			<h1 style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">About *Name*</span></h1>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">BASIC INFO</span></h2>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Online Name: *insert*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Gender: *insert*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Pronouns: Pron/Ouns</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">DOB(Date of Birth): 00/00/0000</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">LIKES AND DISLIKES INFO</span></h2>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Likes: *INSERT*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">Dislikes: *INSERT*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">SOFTWARE AND DEVICES INFO</span></h2>
+
+			<h2 style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">::Software Used::</span></h2>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<h2 align="center"><span style="font-family: comic sans ms,sans-serif;">::Devices Used::</span></h2>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*insert*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 align="center"><span style="font-family: comic sans ms,sans-serif;">DNI INFO</span></h2>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*INSERT*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*INSERT*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*INSERT*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">-*INSERT*</span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 align="center"><span style="font-family: comic sans ms,sans-serif;">FRIENDS INFO</span></h2>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p style="text-align: center;"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;">----------</span></p>
+
+			<h2 align="center"><span style="font-family: comic sans ms,sans-serif;">CONTACT INFO</span></h2>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+
+			<p align="center"><span style="font-family: comic sans ms,sans-serif;"><a href="Link">*INSERT*</a></span></p>
+		</div>
+		<div align="center" class="well well-lg"><a href="https://toyhou.se/CappyAdams"><span style='font-family: "comic sans ms", sans-serif;'>&lt;3</span></a></div>
+	</div>
+</div>
